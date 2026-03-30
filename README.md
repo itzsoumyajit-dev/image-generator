@@ -79,5 +79,5 @@ src/
 ---
 
 <div align="center">
-  <p>Built with ❤️</p>
+  <p>Built with ❤️ Soumyajit</p>
 </div>
