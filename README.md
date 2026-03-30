@@ -5,9 +5,11 @@
   <p>Describe any scene, pick a style, and let AI bring it to life in seconds. No design skills required.</p>
   
   <h3><a href="https://image-generator-sable-phi.vercel.app/">🌐 Live Demo</a></h3>
-  ![React](https://img.shields.io/badge/React-18.x-blue?style=for-the-badge&logo=react)
-  ![Vite](https://img.shields.io/badge/Vite-5.x-purple?style=for-the-badge&logo=vite)
-  ![NVIDIA API](https://img.shields.io/badge/NVIDIA-Powered-76B900?style=for-the-badge&logo=nvidia)
+  <div>
+    <img src="https://img.shields.io/badge/React-18.x-blue?style=for-the-badge&logo=react" alt="React" />
+    <img src="https://img.shields.io/badge/Vite-5.x-purple?style=for-the-badge&logo=vite" alt="Vite" />
+    <img src="https://img.shields.io/badge/NVIDIA-Powered-76B900?style=for-the-badge&logo=nvidia" alt="NVIDIA API" />
+  </div>
 </div>
 
 ---
